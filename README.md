@@ -1,4 +1,4 @@
-# real-world
+# real-world-vue
 
 ## Project setup
 ```
@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+if you wan to run this you have to download json-server :)
+and write in your terminal json-server --watch db.json
+then run your vue server
